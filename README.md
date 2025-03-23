@@ -1,6 +1,6 @@
 # Finance-Dashboard
 
-![image](https://github.com/user-attachments/assets/2c3d3a46-5809-4610-a7cf-77faf5094b81)
+![Screenshot 2025-03-23 165025](https://github.com/user-attachments/assets/8f4e89aa-7233-4765-b4a5-04aaf1def915)
 
 This Finance Dashboard is designed for a high-level overview of income, expenses, and savings. It provides insights into financial performance over time, broken down into key metrics and categories for effective tracking and planning.
 
